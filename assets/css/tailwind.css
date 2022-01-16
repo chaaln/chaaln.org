@@ -592,6 +592,10 @@ video {
   height: auto;
 }
 
+.blog-image img {
+  height: 200px;
+}
+
 .container{
   width: 100%;
 }
